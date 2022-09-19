@@ -35,7 +35,7 @@ const Tasklist = () => {
                     <td>{i + 1}</td>
                     <td>{task.taskname}</td>
                     <td>{task.start}</td>
-                    <td>{task.end}</td>
+//                     <td>{task.end}</td>
 //                     <td>
 //                       <button>completed</button>
 //                     </td>
