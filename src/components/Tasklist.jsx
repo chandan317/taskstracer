@@ -23,7 +23,7 @@ const Tasklist = () => {
                 <th>Sl no.</th>
                 <th>Task Name</th>
                 <th> Start Date</th>
-                <th> Status</th>
+//                 <th> Status</th>
 //                 <th>Action</th>
               </tr>
             </thead>
