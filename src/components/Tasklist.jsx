@@ -17,7 +17,7 @@ const Tasklist = () => {
         {!multipleTask && <h1> No tasks there, please add tasks</h1>}
 
         {multipleTask && (
-          <table border="3px" bgcolor="aquablue">
+          <table border="3px" bgcolor="white">
             <thead>
               <tr>
                 <th>Sl no.</th>
