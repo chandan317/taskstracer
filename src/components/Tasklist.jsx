@@ -23,8 +23,7 @@ const Tasklist = () => {
                 <th>Sl no.</th>
                 <th>Task Name</th>
                 <th> Start Date</th>
-//                 <th> Status</th>
-//                 <th>Action</th>
+               
               </tr>
             </thead>
 
@@ -35,10 +34,7 @@ const Tasklist = () => {
                     <td>{i + 1}</td>
                     <td>{task.taskname}</td>
                     <td>{task.start}</td>
-//                     <td>{task.end}</td>
-//                     <td>
-//                       <button>completed</button>
-//                     </td>
+//                   
                   </tr>
                 );
               })}
