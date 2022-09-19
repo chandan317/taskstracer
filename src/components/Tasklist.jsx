@@ -24,7 +24,7 @@ const Tasklist = () => {
                 <th>Task Name</th>
                 <th> Start Date</th>
                 <th> Status</th>
-                <th>Action</th>
+//                 <th>Action</th>
               </tr>
             </thead>
 
@@ -36,9 +36,9 @@ const Tasklist = () => {
                     <td>{task.taskname}</td>
                     <td>{task.start}</td>
                     <td>{task.end}</td>
-                    <td>
-                      <button>completed</button>
-                    </td>
+//                     <td>
+//                       <button>completed</button>
+//                     </td>
                   </tr>
                 );
               })}
